@@ -102,3 +102,4 @@ Contributions are greatly appreciated. Please fork this repository and open a pu
 Fell free to contact me via it@trianglesis.org.ua
 
 Last validation: 2017-08-17
+DAM ! that's old
